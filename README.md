@@ -31,3 +31,13 @@
 <img width="906" alt="Screen Shot 2022-04-16 at 10 13 16 PM" src="https://user-images.githubusercontent.com/93845867/163700099-c0bdf227-d723-4797-9ef4-fe379e8abff2.png">
 
 <img width="901" alt="Screen Shot 2022-04-16 at 10 12 34 PM" src="https://user-images.githubusercontent.com/93845867/163700095-098d24e1-8600-48b0-bc5c-f1a47721228d.png">
+
+## Study Design: MechaCar vs Competition
+
+- Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+
+In your description, address the following questions:
+- What metric or metrics are you going to test?
+- What is the null hypothesis or alternative hypothesis?
+- What statistical test would you use to test the hypothesis? And why?
+- What data is needed to run the statistical test?
