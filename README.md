@@ -19,3 +19,7 @@
 <img width="920" alt="Screen Shot 2022-04-16 at 9 31 07 PM" src="https://user-images.githubusercontent.com/93845867/163699109-80f5453c-e211-4dd5-9f34-0fa0bbb61562.png">
 
 <img width="919" alt="Screen Shot 2022-04-16 at 9 33 59 PM" src="https://user-images.githubusercontent.com/93845867/163699170-262b9a54-aa48-498c-bc75-28f5b451409d.png">
+
+## T-Tests on Suspension Coils
+
+- Interpretation and findings for the t-test results
