@@ -23,3 +23,5 @@
 ## T-Tests on Suspension Coils
 
 - Interpretation and findings for the t-test results
+
+<img width="851" alt="Screen Shot 2022-04-16 at 9 38 20 PM" src="https://user-images.githubusercontent.com/93845867/163699283-de7bca74-632f-4d19-a0be-3bc2d9647666.png">
