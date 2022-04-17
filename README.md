@@ -25,3 +25,9 @@
 - Interpretation and findings for the t-test results
 
 <img width="851" alt="Screen Shot 2022-04-16 at 9 38 20 PM" src="https://user-images.githubusercontent.com/93845867/163699283-de7bca74-632f-4d19-a0be-3bc2d9647666.png">
+
+<img width="907" alt="Screen Shot 2022-04-16 at 10 11 29 PM" src="https://user-images.githubusercontent.com/93845867/163700090-9ca9c693-caec-4c1e-9c11-f6d2a761dbfb.png">
+
+<img width="906" alt="Screen Shot 2022-04-16 at 10 13 16 PM" src="https://user-images.githubusercontent.com/93845867/163700099-c0bdf227-d723-4797-9ef4-fe379e8abff2.png">
+
+<img width="901" alt="Screen Shot 2022-04-16 at 10 12 34 PM" src="https://user-images.githubusercontent.com/93845867/163700095-098d24e1-8600-48b0-bc5c-f1a47721228d.png">
